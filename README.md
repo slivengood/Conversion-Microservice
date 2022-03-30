@@ -20,7 +20,6 @@ Exposes simple single endpoint:
 
 ## Installation
 
-Node v
 
 ```bash
 nvm use
